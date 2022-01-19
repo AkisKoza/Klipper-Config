@@ -7,9 +7,9 @@ The `input shaper` is set to ei(disable it to print the calibration project)
 
 `BED_MESH_CALIBRATE` can be used also by typing G29
 
-```properties
-screws_tilt_adjust # enabled
-```
+
+`screws_tilt_adjust` # enabled
+
 
 ``` properties
 pressure_advance=0.326 # disable it before calibrating
